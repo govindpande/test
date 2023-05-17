@@ -1,0 +1,10 @@
+numpy
+pandas
+yfinance
+plotly
+streamlit
+matplotlib	
+Prophet
+Datetime
+ydata-profiling
+streamlit_pandas_profiling
